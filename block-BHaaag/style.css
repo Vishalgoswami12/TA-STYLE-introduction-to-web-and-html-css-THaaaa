@@ -30,3 +30,11 @@ h6 {
 .object {
   color: pink;
 }
+b {
+  color: white;
+  font-size: 30px;
+}
+i {
+  color: green;
+  font-size: 24px;
+}
