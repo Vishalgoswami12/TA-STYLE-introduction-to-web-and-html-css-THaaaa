@@ -1,0 +1,32 @@
+body {
+  background-color: blue;
+}
+h1 {
+  color: white;
+}
+h2 {
+  color: green;
+}
+h3 {
+  color: white;
+}
+adress {
+  color: white;
+}
+p {
+  color: white;
+}
+h4 {
+  color: white;
+}
+h5 {
+  color: white;
+  font-size: 16px;
+}
+h6 {
+  color: green;
+  font-size: 21px;
+}
+.object {
+  color: pink;
+}
