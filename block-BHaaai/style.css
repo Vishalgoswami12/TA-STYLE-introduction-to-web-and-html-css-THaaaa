@@ -1,0 +1,37 @@
+.header {
+  color: white;
+  text-align: center;
+}
+body {
+  background-color: blue;
+}
+h2 {
+  color: green;
+}
+h3 {
+  color: white;
+}
+h4 {
+  color: white;
+}
+h5 {
+  color: white;
+}
+h6 {
+  color: green;
+  font-size: 22px;
+}
+p {
+  color: white;
+}
+.object {
+  color: red;
+}
+address {
+  color: white;
+  text-align: center;
+}
+.image {
+  display: block;
+  text-align: center;
+}
